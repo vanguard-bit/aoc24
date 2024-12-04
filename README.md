@@ -1,1 +1,1 @@
-#ADVENT of Code 2024
+ADVENT of Code 2024
